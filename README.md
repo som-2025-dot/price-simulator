@@ -27,13 +27,7 @@ Quantity = f(Unit Price)
 Revenue = Unit Price × Predicted Quantity
 
 
----
 
-## 🖼 Sample Screenshot
-
-![App Screenshot](https://your-screenshot-link.com) <!-- Replace with your own screenshot link -->
-
----
 
 ## 📁 Repo Structure
 
